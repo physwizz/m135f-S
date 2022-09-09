@@ -394,7 +394,7 @@ else
 # CC    = ../PLATFORM/prebuilts/clang/host/linux-x86/clang-r383902/bin/clang
 
 
-CC=/home/grahame/toolchains/clang-r353983c/clang-r353983c1-master/bin/clang
+cc=/home/grahame/toolchains/prebuilts_clang_host_linux-x86_clang-r383902-jopp-11/bin/clang
 
 
 LD		= $(CROSS_COMPILE)ld
